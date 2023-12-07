@@ -1,0 +1,14 @@
+C:\Users\NITRO\source\repos\Assignmemts\Assignmemts\bin\Debug\net6.0\Assignmemts.exe
+C:\Users\NITRO\source\repos\Assignmemts\Assignmemts\bin\Debug\net6.0\Assignmemts.deps.json
+C:\Users\NITRO\source\repos\Assignmemts\Assignmemts\bin\Debug\net6.0\Assignmemts.runtimeconfig.json
+C:\Users\NITRO\source\repos\Assignmemts\Assignmemts\bin\Debug\net6.0\Assignmemts.dll
+C:\Users\NITRO\source\repos\Assignmemts\Assignmemts\bin\Debug\net6.0\Assignmemts.pdb
+C:\Users\NITRO\source\repos\Assignmemts\Assignmemts\obj\Debug\net6.0\Assignmemts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NITRO\source\repos\Assignmemts\Assignmemts\obj\Debug\net6.0\Assignmemts.AssemblyInfoInputs.cache
+C:\Users\NITRO\source\repos\Assignmemts\Assignmemts\obj\Debug\net6.0\Assignmemts.AssemblyInfo.cs
+C:\Users\NITRO\source\repos\Assignmemts\Assignmemts\obj\Debug\net6.0\Assignmemts.csproj.CoreCompileInputs.cache
+C:\Users\NITRO\source\repos\Assignmemts\Assignmemts\obj\Debug\net6.0\Assignmemts.dll
+C:\Users\NITRO\source\repos\Assignmemts\Assignmemts\obj\Debug\net6.0\refint\Assignmemts.dll
+C:\Users\NITRO\source\repos\Assignmemts\Assignmemts\obj\Debug\net6.0\Assignmemts.pdb
+C:\Users\NITRO\source\repos\Assignmemts\Assignmemts\obj\Debug\net6.0\Assignmemts.genruntimeconfig.cache
+C:\Users\NITRO\source\repos\Assignmemts\Assignmemts\obj\Debug\net6.0\ref\Assignmemts.dll
